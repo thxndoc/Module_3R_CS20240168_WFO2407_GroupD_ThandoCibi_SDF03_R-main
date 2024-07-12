@@ -2,7 +2,7 @@
 Creating an exact replica of a simple webpage portfolio for "CodeSpace Cat" using HTML.
 
 # Project Overview
-A simple webpage portfolio built using HTML. Showcases basic web development skills:
+    ✨ A simple webpage portfolio built using HTML. Showcases basic web development skills:
     ✅ Adding HTML boilerplate
     ✅ Elements & attributes
     ✅ Accessibility
